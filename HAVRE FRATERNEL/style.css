@@ -1,0 +1,27 @@
+Body{
+	font-family: Arial, sans-serif;
+	text-align: center ;
+	margin: 0;
+}
+Nav {
+	background-color: violet;
+	padding: 10 px;
+}
+Nav a {
+	color: white;
+	text-decoration: inherit;
+	margin: 18 px;
+	font-weight: bold;
+}
+Nav a :hover{
+    text-decoration: underline;
+}
+Section {
+	padding: 20 px;
+}
+Image {
+	width: 600 PX;
+	height: 200;
+	display: block;
+	margin: 20 px auto;
+}
